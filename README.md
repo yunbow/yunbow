@@ -29,7 +29,7 @@ npx ai-dev-os init
 
 ### Writing
 
-- [[Zenn] AI Dev OS (Japanese)](https://zenn.dev/yun_bow/scraps/4677df6cc83625)
-- [[Qiita] AI Dev OS (Japanese)](https://qiita.com/yun_bow/stocks/9dd1be4d8e04f9c5a58e)
+- [Zenn: AI Dev OS (Japanese)](https://zenn.dev/yun_bow/scraps/4677df6cc83625)
+- [Qiita: AI Dev OS (Japanese)](https://qiita.com/yun_bow/stocks/9dd1be4d8e04f9c5a58e)
 
 [Zenn](https://zenn.dev/yun_bow) · [Qiita](https://qiita.com/yun_bow) · [X](https://x.com/yun_bow)
