@@ -16,6 +16,7 @@ npx ai-dev-os init
 
 | Repository | What it does |
 |---|---|
+| [web](https://yunbow.github.io/ai-dev-os-web/) | Project introduction page |
 | [ai-dev-os](https://github.com/yunbow/ai-dev-os) | Core framework — Lifespan Layers, Specificity Cascade, theory |
 | [rules-typescript](https://github.com/yunbow/ai-dev-os-rules-typescript) | TypeScript / Next.js coding guidelines (L1–L3) |
 | [rules-python](https://github.com/yunbow/ai-dev-os-rules-python) | Python / FastAPI coding guidelines (L1–L3) |
