@@ -22,6 +22,14 @@ It explores how coding rules, context design, and post-generation review can mak
 
 → [AI Dev OS](https://github.com/yunbow/ai-dev-os) · [Benchmark](https://github.com/yunbow/ai-dev-os-benchmark)
 
+### 🧭 AI Dev Readiness
+
+[**AI Dev Readiness**](https://github.com/yunbow/ai-dev-readiness) is a self-assessment tool for visualizing how ready a development organization or project is for AI-driven development.
+
+A short questionnaire produces a 100-point readiness score across five axes, an AI adoption level, process-level suitability, priority improvements, and an adoption roadmap. The assessment runs entirely in the browser without requiring login.
+
+→ [Try AI Dev Readiness](https://yunbow.github.io/ai-dev-readiness/) · [GitHub](https://github.com/yunbow/ai-dev-readiness)
+
 ## What I explore
 
 - AI coding workflows and coding agents
