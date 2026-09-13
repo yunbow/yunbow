@@ -1,37 +1,45 @@
-## Hi, I'm yunbow
+# Hi, I'm yunbow
 
-I build **[AI Dev OS](https://github.com/yunbow/ai-dev-os)** — an open framework that turns tacit developer knowledge into explicit, enforceable rules for AI coding assistants.
+I'm a web engineer exploring **AI coding, AI agents, open source, and side projects** through hands-on experiments.
 
-**The problem:** AI generates code that looks correct but violates your team's conventions, security practices, and architectural patterns. Loading more guidelines into context actually degrades output quality.
+I like building things, measuring what actually happens, and documenting the design decisions and lessons behind them.
 
-**The solution:** A layered rule architecture (Lifespan Layers) with a two-tier context strategy — 3-5 static rules during generation + comprehensive check & fix after generation. [Benchmark: 96.9/100](https://github.com/yunbow/ai-dev-os-benchmark).
+## What I'm building
 
-### Quick Start
+### 🔭 OSS Tanbou
 
-```bash
-npx ai-dev-os init
-```
+[**OSS Tanbou**](https://oss-tanbou.dev/) is an open-source discovery site for finding interesting OSS beyond trending lists.
 
-### Ecosystem
+I collect and follow projects over time using GitHub activity such as stars, commits, issues, and pull requests, while also writing about why a project is interesting, how it is designed, and how it grows after discovery.
 
-| Repository | What it does |
-|---|---|
-| [web](https://yunbow.github.io/ai-dev-os-web/) | Project introduction page |
-| [ai-dev-os](https://github.com/yunbow/ai-dev-os) | Core framework — Lifespan Layers, Specificity Cascade, theory |
-| [rules-typescript](https://github.com/yunbow/ai-dev-os-rules-typescript) | TypeScript / Next.js coding guidelines (L1–L3) |
-| [rules-python](https://github.com/yunbow/ai-dev-os-rules-python) | Python / FastAPI coding guidelines (L1–L3) |
-| [plugin-claude-code](https://github.com/yunbow/ai-dev-os-plugin-claude-code) | Claude Code — Skills, Agents, Hooks |
-| [plugin-cursor](https://github.com/yunbow/ai-dev-os-plugin-cursor) | Cursor — .mdc rules |
-| [plugin-kiro](https://github.com/yunbow/ai-dev-os-plugin-kiro) | Kiro — Steering Rules, Hooks |
-| [cli](https://github.com/yunbow/ai-dev-os-cli) | `npx ai-dev-os init` — one-command setup |
-| [benchmark](https://github.com/yunbow/ai-dev-os-benchmark) | Quantitative impact data — guideline effect on code quality |
+→ [Explore OSS Tanbou](https://oss-tanbou.dev/)
 
-75% of rules survive tool migrations. Switch between Claude Code, Cursor, and Kiro freely.
+### 🤖 AI Dev OS
 
-### Writing
+[**AI Dev OS**](https://github.com/yunbow/ai-dev-os) is an open framework for turning tacit development knowledge into explicit, reusable rules for AI coding assistants.
 
-- [Dev.to: AI Dev OS (English)](https://dev.to/yun_bow/ai-dev-os-m4i)
-- [Zenn: AI Dev OS (Japanese)](https://zenn.dev/yun_bow/scraps/4677df6cc83625)
-- [Qiita: AI Dev OS (Japanese)](https://qiita.com/yun_bow/stocks/9dd1be4d8e04f9c5a58e)
+It explores how coding rules, context design, and post-generation review can make AI-assisted development more consistent across tools.
 
-[Dev.to](https://dev.to/yunbow) · [Zenn](https://zenn.dev/yun_bow) · [Qiita](https://qiita.com/yun_bow) · [X](https://x.com/yun_bow)
+→ [AI Dev OS](https://github.com/yunbow/ai-dev-os) · [Benchmark](https://github.com/yunbow/ai-dev-os-benchmark)
+
+## What I explore
+
+- AI coding workflows and coding agents
+- AI agent / MCP-based development
+- Open-source discovery and project analysis
+- TypeScript / Next.js / Cloudflare
+- Small products, prototypes, and developer tools
+
+## Writing
+
+I write about implementation, experiments, OSS, and AI-assisted development across several platforms.
+
+- [note](https://note.com/yun_bow) — OSS stories and deeper project exploration
+- [Qiita](https://qiita.com/yun_bow) — implementation notes and technical experiments
+- [Zenn](https://zenn.dev/yun_bow) — technical deep dives and structured knowledge
+- [DEV Community](https://dev.to/yun_bow) — English articles
+- [X](https://x.com/yun_bow) — updates and works in progress
+
+---
+
+**Main project:** [OSS Tanbou](https://oss-tanbou.dev/) — discovering and tracking open-source projects worth watching.
