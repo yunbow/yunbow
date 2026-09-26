@@ -30,6 +30,15 @@ A short questionnaire produces a 100-point readiness score across five axes, an 
 
 → [Try AI Dev Readiness](https://yunbow.github.io/ai-dev-readiness/) · [GitHub](https://github.com/yunbow/ai-dev-readiness)
 
+
+### 🌱 Trait Compass
+
+[**Trait Compass**](https://github.com/yunbow/trait-compass) is a browser-first self-check and support-navigation app that helps people organize developmental traits and everyday difficulties, then connect them with relevant public support information.
+
+Self-check answers and scores stay in the browser. Support information is built from Tokyo and municipal open data and official sources, while generative AI is limited to optional explanations rather than authoritative facts.
+
+→ [Try Trait Compass](https://trait-compass.trait-compass.workers.dev/) · [GitHub](https://github.com/yunbow/trait-compass)
+
 ## What I explore
 
 - AI coding workflows and coding agents
