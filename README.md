@@ -22,6 +22,14 @@ It explores how coding rules, context design, and post-generation review can mak
 
 → [AI Dev OS](https://github.com/yunbow/ai-dev-os) · [Benchmark](https://github.com/yunbow/ai-dev-os-benchmark)
 
+### 🌿 Rule Branch
+
+[**Rule Branch**](https://github.com/yunbow/rule-branch) is an application for detecting inconsistencies between GitHub project dependencies and development rules.
+
+It manages the review and approval of proposed rule updates, then distributes instruction files for AI coding assistants through draft pull requests.
+
+→ [GitHub](https://github.com/yunbow/rule-branch)
+
 ### 🧭 AI Dev Readiness
 
 [**AI Dev Readiness**](https://github.com/yunbow/ai-dev-readiness) is a self-assessment tool for visualizing how ready a development organization or project is for AI-driven development.
